@@ -1,0 +1,84 @@
+5 Kasım 2018 Haftalık Toplantı
+
+nonstoplogger: abb
+
+bu toplantı geçenkinden farklı ilki çok sunum gibi olmuştu.
+bu ilk gerçek toplantı.
+çıkışta da yemek!!!
+
+tanışma
+	YKLAR
+		-abb 	(ahmet burak baraklı): 	kitap, anime, oyun, competetiveciyim -madalyam felan var- boş yapmayı severim, androidle uğraşırım.
+		-aslı 	(aslı umay öztürk):		atarlı bilinirim, ama değilim. 2.5-3. sınıfım. kod yazamamayı severim. tasarıma ilgim var.
+		-deren 	(deniz eren yılmaz): 	programlamaya ilgi duyuyorum çok ileri seviye değil. webe yönelimim var gibi.
+		-fahri 	(fahrican koşar): 		elektrikçiyim. 3. sınıf falanım. sunucu site işleri bana kitlenmiş durumda. minecraft oynamayı severim.
+		-hüsna	(hüsna yılmaz):			ikinci yılım. spor bilgisayardan daha eğlenceli. fransızca biliyorum.
+		-ozan 	(ozan akın): 			40+ ubuntu kurdum. hackathonlarda iş kitleniyorum. teknoloji genel olarak ilgi alanım.
+		-sinan	(sinan tomruk):			birinci sınıfım. boş atarım genel olarak. oyun anime muhabbet ederim falan ama hiç birini tam bilmem.
+		-alim	(alim bican çoban):		ikinci sınıfım. koşmayı (özellikle derslere) severim. hep geç kalırım.
+
+	ÜYELER
+		-birkan:	eski başkanım. toplulukta 4. yılım. 
+		-deniz: 	birinci sınıfım. müziği de severim. 
+		-yiğitcan: 	1.sınıfta ikinci yılım. odada boş yapmayı severim.
+		-bahadır: 	düzenlii format atmayı severim.
+		-yavuz: 	ikinci sınıfım. yabancı futbol maçlarını izlemeyi severim.
+		-berfin: 	matçıyım. yoga ve resim yapıyorum. yazılım öğrenmeye geldim. sabahları kahve almaya geliyorum.
+		-aysuhan: 	kadirliliyim. 100.yıl evlerinde postlarım var. 
+		-melis: 	hazırlığım. eeciyim. bilgisayardan anlamıyorum. voleybol oynarım.
+		-utku: 		hazırlığım. çok boşum ama hiç vakit kalmıyor. 
+		-berfin:	hazırlığım. ben de voleybol oynarım.
+		-ezgi: 		kısa olmamla bilinirim. eedeniz. filoloji severim. eeden daha çok sevdim burayı.
+
+polarlar
+	-en ucuz 65, inme ihtimali çok düşük. 
+	-65 geçerli mi sizce?
+		+eveeet
+	-odtüdende bile 75. elimizden bişey gelmiyor.
+	-şu olsun bu olsun diyoruz ama kimse uğraşmıyor. gönüllü var mı uğraşcak?
+		-bahadır ve ezgi: ben olurum.
+	-melis: denizli tekstil şehri sonuçta bakarım bi.
+
+sponsorluk
+	-katılmak isteyen ykları özellikle de sinanı bulsun.
+	-sponsorluk diyoruz da ne için? codenight, bilişim günü için falan.
+
+random <--> duyuru
+	-random: çok boş
+	-duyuru: yazılmıyor
+	-arası lazım diye düşünüyoruz. 
+	-ciddi mesajları atacak bi yer lazım.
+	-ama nerde yapsak bilemedik.
+	-discord yapalım diyoruz: fikirleriniz neler?
+		tamer: discord biraz daha esnek, kanallar var. 
+		yiğit: kullanımı kolay değil.
+		mozan: discord çok sıkıcı.
+		p1: whatsappta çok boş dönmez ya
+		deren: telegram mı açsak ya.
+		tamer: ikisini de açalım, iyi olan kazansın.
+	discord: 6 telegram: 9
+
+codenight
+	-okul zamanı 2-3 ayda kazanabilcek arkadaşlığı bi gecede kazanıyosunuz.
+	-fişleri çekmişsiniz üzüldük :(
+	-yemek getirilse iyi olur mu sizce?
+		+eveeet
+	-organizasyon (yk) hiç oturamadı. gerçek codenight bu değil. biz de insanız :'(
+
+unwsh
+	unwsh[0] feedback
+		-ilkinde bile anfi taştı. mutluyuz.
+	-haftaya bi tane yapıcaz: programlama nasıl öğrenilmez?
+	-amaç sıkıntıları giderme.
+	-o kursa para vermek neden saçma?
+	-salı/çarşamba/perşembe den hangi gün olsun? 
+		+çarşambaaa
+	aslı: coding for designers yapmayı planlıyorum
+	-photoshop unwsh zor ya çok kısa olur ya çokuzun
+	-elektronik buşt bi iş 
+	-aklınıza geleni söyleyin, bakarız
+	-esoteric diller de var.
+	-eğitimlerin sıkıntısı zaten bilgilerinin katılımcıdaki devamlılığı
+	-unwsh temel amacı kıvılcım oluşturmak, kalanı sizde.
+
+istiklal marşı ve kapanış

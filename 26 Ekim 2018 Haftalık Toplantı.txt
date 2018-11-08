@@ -1,0 +1,120 @@
+26 Ekim 2018 Haftalık Toplantı
+
+logger: abb
+
+haftalık toplantı nedir
+	-cclub ne yapacak
+	-neye ihtiyaç var
+	-üyeler tanısın birbirini
+	-aktif üye olmanızı sağlıyor
+
+aktif üye nedir
+	-gelip geçerken odaya uğrar
+	-sen aktifsin sen değilsin diye bişey yok aslında
+	-topluluğa gelmek ya da gelmemek işte tüm mesele bu
+
+neden burdasınız, aklınızda ne var, ne yapmak istersiniz
+	-birkan: aktif görev olsa gelirim. mesela bergiye yazı yazmak istiyorum.
+	-insanları yakınlaştıran olaylar bişeyleri yapmak/yapamamak zaten.
+	-hasan bal: bu topluluktaki samimiyeti diğerlerinde bulamadım.
+	-ismet: ders dışındaki eğlenceli kısımları beraber yapabilmek için.
+
+etkinliklerimiz
+	-codenight
+		-codenightları 2-3 haftada bi yapmayı düşünüyoruz
+		-herkesin uğraştığı hobisi projesi oluyor onla uğraşıyoruz
+		-geçen biri çizgi izleyen robot yaptı. bişey yapmanız yeterli. illa bilgisayarlı bişey olmak zorunda değil
+	-stalk ve unwsh
+		-katılımcıları etkinliğe girmiş hallerinden bi tık üst seviyede çıkaran şey
+		-stalk: dışarıdan gelen insanlar
+		-unwsh: anlatıcı biziz ya da sizsiniz. o gün içinde bitecek şekilde anlatıyosunuz
+		-tek günde başlayıp bitmesi -> UNworkshop
+		-unwsh[0] feedback:
+			-hasan bal: sevdim hoştu. ama kısaydı. keşke daha uzun olsaydı
+			-deniz: faydalı buldum. eve gidip kurcaladım. bazı yerlerde koptum. daha beginner friendly olabilirdi.
+		-hasan bal: gelecek planlarınız var mı:
+			-aslı: coding for desinger var. bişeyler çıkarmaya uğraşıyorum.
+			-alim: minecraft workshopı. redstone denen bi olay var. aslında redstone diye logic anlatcaz.
+			-ozan: programlama nası öğrenilmez. değişik diller/değişik teknolojiler. git. fantastik diller ve bunları nerden bulabiliriz.
+		-hasan bal: keşke biri react native anlatsa.
+		- madem redstone var. hunger gamese de girelim
+		-mozan: m2 var mı acaba
+		- madem en iyi yol anlatmak. beraber bişeyler yapıp anlatalım.
+		-mozan: herkes kendi evinin önünde unworkshop yapsa....
+		-ledlerden meksika dalgası yapalım.
+		-bu insanı çağırabiliriz dediklerinizi söyleyin belki gelirler.
+		-ozan: /*doğukan güven nomak’tan bahsetti */
+		-hasan bal: teknokentte çalışan havalı insanları mı darlasak?
+		-ozan: ben annemin okulundaki bi öğrenciyi çağırmayı düşünüyorum. 15 yaşında white hat bi hacker
+		-hasan bal: hackerlık unworkshopı
+
+koşu
+	-bahadır: cumhuriyet koşuusnda beraber koşalım. insanlar bizi hareketsiz olarak görmesin.
+	-bahadır: ilk 2kya tshirt, sandwiç kahve falan var. loot bakımından zengin.
+	-alim:sonrasında yemek bile yenebilir sanırım.
+	-bahadır: cepada bi alana bi bedava sinama bileti. ardından oraya gidebiliriz.
+	-birkan: ben yeni üyeyim. yklar yeni üyelerinkini de alsın
+
+yemek
+	-genelde toplantı çıkışlarda yemek yiyoruz.
+	-çıkışta da yemeğe gidiyoruz.
+
+	-hüsna: neden az insan geldi
+	-aslı: normalde daha kalablık oluyo ama 4 günlük tatil var diye gittiler.
+
+merch
+	-geçen sene polar yaptırdık. bu sene tshirt falan da düşünüyoruz
+	-tanıdık varsa söyleyin. yoksa gene buluruz da. işimiz kolaylaşır.
+	-birkan: geçen yıl ocak ayında geldi polarlar.
+	-tasarımlarını atabilirsiniz. geçen sene yarışma yapmıştık.
+	-birkan: ben baskıyla ilgilenebilirim. 
+	-ozan: ısıtmalı polar unworkshopı yapalım.
+
+sponsorluk
+	-genelde yıllık 20-30k masraf oluyo
+	-insanlar daha önce bize ben şunu şunu ayarlayabilirim diye gelmişti daha önce, sizin de varsa bekleriz.
+	-yardımcı olmak isteyen varsa
+	-hasan bal: tecrübem yok ama uğraşmak isterim.
+	-ahmet k: çok güzel darlarım.
+	-asla yeter demiyoruz. şirketler değil, yardımcı olan insan konusunda.
+	-bize her yerde/her zaman dürtebilirsiniz.
+
+py/judge
+	-türkiyenin en eski, en büyük .....
+	-geçen yıl judgeı nerdeyse* sıfırdan yazdık
+	-çok hızlı öğrenebilirsiniz katkıda bulunmayı
+	-yarışma diyince bişey akla gelsin diye public yapacağız.
+	-dedik ki judge yıl boyu açık kalsın.
+	-yarisma.cclub.metu.edu.tr/arsiv-beta/ bakın, inceleyin, test edin.
+	-githubda var kodları, isterseniz bişeyler ekleyebilirsiniz.
+
+bergi
+	-bizim yayın organımız
+	-eskiden aylık dergiymiş, şu an blog.
+	-e-bergiye bir çok şekilde katkıda bulunabilirsiniz.
+		-hem kod ekleyebilirsiniz. githubda o da var.
+		-hem de yazı yazabilirsiniz. 
+	-alim: ben yazmıştım, yazmak isterim diyeniniz var mı.
+	-hasan bal: ben başka siteden algoritma yazıyorum. onu alsam olur mu?
+	-alim,aslı: olabilir
+	-mozan: bergide sadece türkçe yazı mı oluyor.
+	-evet
+	-hüsna: bergi ne demek?
+	-bermek = to compute.
+
+wp grubu
+	-bizim en aktif kulladığımız duyuru kanalı.
+	-kullanmayı atmak hoş değildi.
+	-geçen dün doldu. biz de yenisini açtık.
+	-read only olduğu için birden fazla olmasının bi kötü yanı yok. boş grubu ayrı.
+	->  https://dar.vin/join_cclub
+
+sosyal sorumluluk
+	-geçen sene böyle bikaç proje yapmıştık
+	-bi teklif daha geldi. 
+	-anlaşıyoruz bi okulla. sonra gittiğimizde bi sunum yapıyoruz. ne istedilerse. 
+	-bilişimi tanıtıyoruz genel olarak. kodlama eğitimi küçük yaşlara indi sonuçta.
+	-ozan: geçen gittimizde yapay zeka sorularından çıldırdık. ufak kodların çalışmasını gösterdik. (abb hak veriyor)
+
+toplantının bilgiad kısmı bu kadardı. eklemek istediğiniz bişey varsa buyrunuz efendim.
+	-hüsna: gelin kaynaşalım. topluluk işi iki taraflı gönüllü bi iş.
