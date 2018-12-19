@@ -1,1 +1,3 @@
-cclub_logs
+### cclub-logs
+
+odtü bilgisayar topluluğu haftalık toplantı loglarının buluşma noktası...
