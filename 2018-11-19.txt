@@ -1,0 +1,67 @@
+hai 19 kasım loguna hoşgeldiniz
+logcu: auo
+
+# gündem:
+	- sponsorluk
+	- merch
+	- unwsh
+	- discord
+	- bergi
+	- arşiv/beta
+	- server
+
+
+# sponsorluk
+	- JotForm bize yine sponsor oldu, platin çok yaşa ^^ 
+		*pls checkout jotform.com
+	- siemens önceki yıldan kalma bir yara, hala parayı ödemediler, siemens'e hayır propagandası yapıldı.
+	- sponsorluk ekibinin planlarından bahsedildi:
+		- teknokentekiler
+		- 30 civarı klas şirket listesi
+	- ilgililer >>> herhangi bir yk'ya pm
+
+# merch
+	- polar: 
+		- fiyatları 65 ya da 70 olacak, formu 70 gibi açacağız, sayıya göre düşürebilirler. 
+		- 5 renkli anket açılacak, 3 tercih yaparsınız, 3 final renk belirleriz. tasarım basic, atıcaz.
+	- çorap 5k-10k adet dediler, saldık
+	- atkı:
+		- istanbulda deneme baskısı yapıp fiyat verecekler, bekliyoruz
+		- birkaç site de bulduk
+		- tasarımları dijitale dökmek lazım, gönüllü: Tamer
+	- hms: 24 atkı, 12 kupa, ama fazlalar gibi, sayıya/tasarıma göre belli olacak
+
+# unwsh
+	- unwsh 1 hakkında öz eleştiri/eleştiri:
+		- azcık uzundu
+		- belki ara verilebilirdi
+		- 18:30 geç dendi
+	- unwsh 2: "git"
+		- 18:00 yapacağız, 18:30 geç dediler
+		- 26 kasım pts, duyurular yapılacak ^^
+		- eğitimciler: ozan ve/veya fahri
+
+# discord
+	- önemli/teknik/keyifli bilgi temalı grup
+	- belki azıcık muhabbet ama atılar bilgiler üzerinden muhabbet, random değil asla
+	- oyun grubu OLMAYACAKTIR, oyun konuşmak ban sebebidir!!!
+
+# e-bergi
+	- yazıcıklar çıktı yaaay
+	- bergiye ilgi artmalı 
+	- yine yazı yazın, 2013'te bitcoin yazısı yazan vizyonlu zengin ablamız gibi olun!!!
+	- bergi sosyal medyaları uçurulacak, varsa marketingcilik yaparım diyen, >>> Aslı'ya pm
+		- anlık pm atanlar: Ecem, Aysu
+
+# arsiv/beta
+	- soruları yayımlayacağımız sistem: https://yarisma.cclub.metu.edu.tr/arsiv-beta/ 
+	- bu sistemde belli linkler kırık çıkabiliyor, amacımız kırık linkleri bulmak, örneğin:
+		- "profil sayfama girip 3 kere geri tuşuna basıp aynı linke çift tık atınca 404 verdi"
+	- ya da soruları kontrol eden judge'ı çökertmeye çalışmak, örneğin:
+		- judge'a judge kodu dertletmeye çalışmak 
+	- size bu sataşmayı yapabilecek user oluşturup ya da kayıt arayüzünü düzeltip haber vereceğiz ^^
+
+# server
+	- size site ve mail serverlığı yapalım mı??? //veri güvenliği garantisi vermiyoruz teşekkürler
+	- tatlişko bir server aldık tipini sadece toplantıya gelenler görebilir teşekkürler 
+

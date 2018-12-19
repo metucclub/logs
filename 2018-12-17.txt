@@ -1,0 +1,62 @@
+17/12/2018 cclub haftalık toplantı 
+
+logcu: auo 
+
+-> haberler
+
+	* platin jotform'dan sonra şu an adını vermeyeceğimiz fakat yarın protokol imzalama olasılığımız %99 olan bir altın sponsorluk tamam gibi :) 
+
+-> s-talk
+
+	* haftaya salı yani 25 aralık s-talk 
+	** yapalım mı? 
+	** katılım olur mu, tarih sıkıntılı mı?
+	** iki şirketten seçeneğimiz var, şirket tanıtımı yapmayacaklar ama tecrübelerini anlatacaklar
+
+-> anahtar durumu: 
+
+	* yk ve dk hariç anahtar sorumluları da sabitlendi, odaya ulaşım için dürtebileceğiniz insanlar:
+	** yk üyeleri
+	** (dk üyeleri): birkan arslan & cengizhan başak
+	** bahadır kisbet
+	** mustafa ozan alpay
+	** ilker koşaroğlu
+
+-> haftasonu planları: codenight mı yoksa yemek mi? 
+
+	* yk hariç oylama yapalım
+	** codenight: 2
+	** yine central ama yemek, içmece değil ama isteyen içer: 8,5
+	* karar belli :)
+
+-> bilimin çocuk dili:gelen sorular
+
+	*yeni kurulan bir topluluk, soru alıyorlar çocuklardan, teknoloji ile ilgili olanları biz cevaplamaya çalışacağız. 
+	** _clap clap_ soru review:
+		- Bluetooth neden uzaklaşınca çalışmıyor? Salih
+		- Çamaşır makinesi kendini nasıl yıkıyor? Deniz Ali
+		- Makineler? Deniz Ali
+		- Robotlar ve makineler nasıl çalışır? Deniz Ali
+		- Oyuncak bebekler nasıl konuşur? Hasan
+		- Piller nasıl bitiyor? Nasıl çalışır? Murat
+		- Prizdeki elektrik ev aletlerini nasıl çalıştırıyor? Umut
+		- Programlama yapmak ne demek? Birkan
+		- Projeksiyon aleti nasıl çalışıyor? Bahadır
+		- Robotlar su içip yemek yer mi? Nerede yatarlar? Barslan
+		- Neden ışınlanamıyoruz? Bahadır/Aslı
+		- Elektriği kim buldu? Emre
+		- Elektrik nasıl oluşuyor? Evlerde nasıl kullanılır? Emre
+		- Elektrik ve ampullerin ilişkisi? Emre
+		- Tramvay üzerindeki teller ne işe yarıyor? Salih
+		- Uçak yan dönerken biz neden düşmüyoruz? Aysuhan
+		- Uçaklar düşmeden nasıl uçuyor? Aysuhan
+		- İnternet nedir? Deren
+		- Robotik kodlama nedir? Salih 
+		- Robotlar neler yapabilir? Barslan
+		- Telefondan ses ve görüntü nasıl geliyor? Umut
+		- Uçakların motoru nasıl çalışır? Aysuhan
+		- Böcek yersem ne olur? Deren
+		- Paraşütle uçan insanlar birbirini videoya çektiğinde neden duruyormuş gibi algılıyoruz? Ozan
+
+-> e-bergi: murat=>start-up nedir?
+
