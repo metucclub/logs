@@ -1,0 +1,116 @@
+
+CClub 3 Ocak 2019 
+Dönem Sonu Değerlendirme Toplantısı
+
+logcu: auo
+
+önce: sunum by başkan alim
+	bu dönem neleri yaptık?
+	-> unworkshop ve codenightlar
+		ozi: unwsh güzel bir fikirdi, temel fikir düzenli eğitimlerin yarattığı kopukluğu engellemekti. ama sanki insanlar bunu istiyor muydu çok da emin değildik, hala da emin değilim. temel amacımızın kıvılcım uyandırmak olduğunu ve başardığımızı düşünüyorum.
+		bahadır: codenightlarda bir şey eksikti, ne bilmiyorum ama eksikti...
+		keleş: geçen yıl azdık, herkesle konuşuyorduk, şimdi kişi artınca insanlar kendi gruplarıyla katıldı ve iletişim azaldı. bunu aslında kişi sayısı artınca bekliyorduk, belki bu konuda bir "önlem" almayı deneyebiliriz?
+		birkan: ama geçen yıl kaynaşalım diye ekstra bir çaba yoktu. gruplaşarak gelip öyle takılmak biraz üzücü. 
+		tamer: ama yine de ben arkadaşlarımın %90'ını codenightta edindim, biraz da kafa meselesi.
+		alim: bir de codenight bu yıl daha yüklüydü, önceden çok daha kolaydı. adminlerden labı aldıktan sonra işler bitmesi gerekirken bu yıl redbull taşımaktan pizza istemeye, ikram ayarlamaktan su yetiştirmeye kadar organize etmeye çalışırken katılamadı çoğu eski üye/yk.
+		hasan: yeni gelenlere iş yaptırın abi, kitleyin bize ya... ben verim aldım mesela aslında, çünkü çalışabildim codenightlarda.
+		keleş: iş kitlemenin bir güzel yanı daha var ki bir şeye emek verince kendini o şeyin parçası hissediyorsun. çok daha yüksek motivasyon aslında topluluğa devam için. önümüzdeki dönem bence bu üyelere dağıtılabilir, ben geçen yıl masa da taşıdım şoka da gittim pizza da istedim vsvs...
+		hasan: ben sevdim bence güzeldi, daha sık olsa daha güzel olabilir ama konu yok gibi.
+		ozi: biri mesela fikir verdi, heveslendi ama başka bir toplantıda falan asla bir daha görmedim kendisini...
+		birkan: mesela ben git eğitimini çok beğendim ve faydalıydı.
+		barslan: ben gite aşina olduğumu unwsh sayesinde anladım mesela, farkında değilmişim.
+		ozi: peki ya ubuntu unwsh?
+		selinezgi: ilk unwshtı ama beni gaza getirdi, daha gerideymişim, onu yakalamak için araştırdım.
+		birkan: belki de amaç biraz daha oydu, iyi olmuş.
+		murat: fahri "işletim sistemleri vs dinler gibidir" demişti mesela ve ben de öyle oldu çok faydalıydı artık bırakmıyorum ubuntuyu.
+		alim: peki sizce tek gün olması iyi mi yoksa 3 hafta haftada bir gün olsa nasıl olurdu?
+		selinezgi: yok çok bölünürdü o bence, belki haftada 2 olsa tamam ama, ben devam edemezdim diğer türlü bence
+#idea	hasan: feedback alamadık demediniz, form açsanız ya?
+#idea	koluaçık: biraz baktım, sonra bıraktım giti, sonra tekrar hatırlamak istediğimde ihtiyacım olduğunda unuttuğumu fark ettim, notları bir yere yüklesek mi?
+		murat: unwsh konusunda tek eksik istikrarsızlıktı ama suç sizde değildi bence, eğer her şeyi siz yapacaksanız biz niye buradayız? ben kendi adıma yazacağımı söylediğim yazıyı sunuma da çevirmeye çalışacağım söz.
+#idea	keleş: form olmasa bile ders çıkışı bir kağıda feedback alınabilir.
+		fahri: unwsh lafını ve fikrini ben çıkardım ama memnun değilim, bence verimsizler. zaten bir şeylerin "101"ini anlatmak bence hem anlatana sıkıcı, hem de yeterli hevesi görmedim. mesela git unwsh için kimse bilgisayar getirmemişti. tamam bir şeyler öğrenen insanlar var ama 3 unwsh sadece 6 kişiye bir şeyler öğrettiyse bir şeyler yanlış gibi.
+		
+	-> sosyal etkinlikler: codenight, yemek, içmece, koşu
+		ozi: koşmayı sporu hiç sevmem ama topluca cumhuriyet koşusuna katıldığımızda çok eğlendim 
+		deren: biz sene boyunca topluluk kısmından bahsettik ama bilgisayar kısmı zayıf kaldı, codenight'ın da code kısmı zayıftı gibi gibi...
+		umut: bence codenight özelindeki o zayıflık biraz topluluğun tanışıklığının insanların kaynaşıklığının azlığından da kaynaklanıyor, önce o çözülebilir.
+#idea	keleş: mesela codenight öncesi 7 gibi çarşıda yemek yense, kaynaştırılsa insanlar, o çözülebilir.
+#idea	fahri: mesela ben en son codeforces rounduna girdiğimizde çok eğlendim, hem bilgisayarcılık kısmını da arttırmak için güzel.
+		hasan: lab mı alsak acaba bunun için?
+#idea	yiit: codenightlarda virtual contest açılabilir, upsolving de yapılabilir.
+		keleş: ama yine tanışıklığı çözmüyoruz. ki zaten competitive bir yarışma, bireysellik ve sessizlik ön planda.
+#idea	alim: bence onu dengeleyebiliriz yemekle, ya da takımlı virtual contest açılabilir.
+		hasan: aynen official roundlarda yasak ama virtual contestte güzel olur.
+#idea	kaan: hatta hackathon gibi olabilir, deriz "herkes bergiye dalacak" gibi.
+#idea	deren: random takımlar ya da temalı codenightlar çok güzel.
+		keleş: mesela biz saçmasapan bir soruya grupla uğraşırken kaynaşmıştık, yine gruplu contest değil de challenge gibi bir şey yapılabilir.
+		ozi: ama bilgisayar bilmeyen ve öğrenmek isteyen adam napıcak burada?
+		auo: ama karma gruplarsın, böyle düşünüp yaparsak geçmiş olsun bilgisayarcılık yapamayız.
+		keleş: hem roundlarda biraz matematikçilik düşüncecilik de var, bilmek zorunda değil.
+		fahri: judge'ı test ettiğimiz codenight mesela çok güzeldi.
+		ozi: mesela ben django'yu bergiden öğrendim, gördüm güzel geldi ve araştırdım.	
+		fahri: millete kendi işinizi getirin diyince çok değişik şeyler gördüm, biri en son kendi 6. sınıfta yazdığı minecraft server scriptini getirmişti...
+		
+
+	-> neleri hiç yapmadık?
+		alim: mesela neden stalk olmadı?
+		ozi: şirketler yoğunuz dedi biraz da onun etkisi oldu.
+		umut: hiç büyük etkinlik yoktu mesela...
+		auo: ama o da yazın yk yapacak demek, yine üyeler değil...
+		alim: ama büyük etkinliği gününde yapıyorsun, üyeler orada çalışıyor.
+		keleş: evet ama 2 büyük etkinlik resource'ları bölmek demek ve bu iyi değil. çok da üzülmemeli bence.
+		murat: bence çok lokaliz, bir etkinlik afişi falan asılabilir belki büyük etkinlik gibi.
+		auo: amaç dışı gibi gördük biraz da, mail grubu, cow, facebook vs de duyuruyorduk aslında.
+		keleş: dışarıdan çok dönüş almayız gibi geliyor.
+#idea	murat: bence biraz kendimizi yani topluluğu düşünmemek gerek, mesela bir kez psikoloji topluluğunun bir sunuma gittim onlara bir şey katmadım ama onlar bana çok kattı. 
+		keleş: ama kastettiğim o değil yoksa haklısın, sadece 2 kişi için 10 afiş mi asmalı? biraz ona itafen diyorum.
+		selinezgi: ben çoğu kişiden fikirsizlik duyuyorum, haberleri olmuyor ilgisiz değiller aslında. cclub napıyor bilmiyorlar yani, biraz satılmalı belki de gerçekten.
+#idea	umut: bence topluluğu tanıtmak kesinlikle zararlı değil, böyle genel olarak tanıtım afişi yapılabilir.
+#idea	auo: böyle bir sticker fikrimiz vardı terk etmiştik, onu düşünebiliriz.
+		bahadır: belki biraz daha fazla sosyal etkinlik yapılabilir.
+#idea	barslan: bence polarlar efsane reklam, ama hazırlıklara çok oynanmıyor gibi... benim gibi ilgili olup bilmediğinden gelmeyen çok kişi var ve kaçırıyoruz. ayrıca organizasyon konusunda bence de yk çok fazla iş alıyor, kesinlikle bize de atın.
+		ozi: aslında oryantasyon zamanında oldukça reklam yapıyoruz ama sonrasında yapmadığımız doğru. ama burada benim inancım gelmek isteyen adamın bize çok fazla ulaşma yolu var, ulaşmazsa da zaten kopacaktır ileride. ayrıca benim gördüğüm kadarıyla yk işleri 3 kategori, ve bu biraz sıkıntı yaratıyor: 
+			- yk dışı yapılamayacak işler
+			- teknik işler
+			- yk dışına verilebilecek ama süre sıkıntısı yaratacak işler
+		(tamer: reklam önerisi olarak cclub baskılı poşet)
+		fahri: iş konusunda bir şey demek isterim ki mesela bende yk olarak üyeye verilebilecek bir iş var(2 birim), şimdi ben işi versem bir de iş takibi olarak bir işim çıkacak(1 birim), sonra işin düzgün yapıldığını kontrol etme işi(1 birim) de çıkacak ve elimdeki iş aynı kalacak, öyle olunca işi kendim yapıyorum. ayrıca biz biraz "anamızın ligi"nde oynuyoruz, akademik danışmanımızın da dediği gibi dışarıda görünürlüğümüz az, bu da hoş değil bence de. 
+#idea	hasan: biraz da etraftaki diğer ünilerin topluluklarına mı baksak napıyorlar?
+		ozi: azcık biliyorum ama genelde hem bilgisayar hem topluluğu beraber yöneten yok pek.
+#idea	memin: yeni video çekelim bence!! ona düşmüştüm.
+		
+	-> aktif üyelik 
+		alim: bir yoklaması yok, resmi tanımda genel kurula gelmek, kültür işlerinden kart çıkarmak gibi şeyler var. ama zaten bir tanışıklık ve etkinlik katılımı olunca aktif oluyorsunuz. getirdikleri de seçme seçilme hakkı, ya da limitli şeylerde aktif üyelere öncelik veriliyor ya da zaten aktif olduğundan önce haberi oluyor. aktif üyelik gereken bir durum olduğunda yk liste çıkarıyor ve bir itiraz periyodu oluyor. detaylı bilgi tüzüğümüzde: https://cclub.metu.edu.tr/tuzuk
+		ozi: ve inanın hepinizi tanıyoruz, bir etkinliğe geldim ben aktif üye olur muyum diye dertlenmeyin.
+		auo: mesela polar formunda sapık gibi tam isim isteme sebeplerimden biri de buydu :)))
+	
+	-> gelecek dönem
+#todo	-> hashcode hub açıyoruz ^^
+		-> bilmök 1-2-3 mart:  bilgisayar mühendisliği öğrencileri kongresi, (bilgisayar mühendisliği öğrencisi olmanız gerekmiyor...) güzel konuşmalar seminerler olan 3 gün süren bir etkinlik. bu yıl yine katılmayı düşünüyoruz, ama daha muğla sıtkı koçman üniversitesinin davetiyesini bekliyoruz. duruma göre sizi haberdar edeceğiz, ikinci dönem. 
+		-> programlama yarışması 
+			- ön eleme: 22-25 mart  
+			- final: 20 nisan
+			- sponsorlarımız(şimdilik): JotForm & VLMedia
+#idea		hasan: belki bu yıl programlama yarışmasını hashcode gibi yapabiliriz. ya da mesela herkes kendi kodunu yazıyordu ve kodları birbirine karşı dama oynuyordu... 
+			ozi: iki gün olmasının özel bir sebebi var mı?
+			hasan: kafa yorması, yani belki zorluk azaltılıp süre kısaltılıp yapılabilir tek gün.
+		-> bilişim günü: 4 mayıs 
+			sunucu adayları: murat~
+#idea		ozi: geçen yıl barkod basmıştık oluşturup, ama eventbrite zaten bunu destekleyecek bir api yazmış, onunla olayı geliştiricez, bunun için bir ara yardım isteyeceğiz, daha erken. bir de benim önceden yazdığım ama yazdığım yer kullanmadığı için elimde kalan bir treasure hunt sistemi var, bunu bilişim gününe uyarlayabiliriz. 
+#idea		hasan: kesişen yollar, emine gökçe phillips
+#idea		tamer: gelemeyecek insanlara telekonferansı da deneyebiliriz
+#idea		umut: yaka kartları için 2019da gelin dediler, gidek
+		-> stalk 
+			- VLMedia dönem başında yapacak
+			- JotForm da ilerleyen zamanlarda yapacak
+		-> tanışma dönemi
+			- ikinci dönem tanışma toplantısı
+			- çok yoğun olmasa da bir kaynaşma dönemi
+#idea		- öncesinde video çekimi yapılacak ki izletilsin
+#idea		- yeni bir tanışma afişi de gerek
+				murat: afişte kesin yemeği yazın
+		-> kalasSort()
+			- insanlara sorting algoritması hissiyatını sırtlarında kalas taşıtarak yaptırmak
+			- olursa bahar şenliği, olmazsa da o zamanlarda topluluk inisiyatifi ile yapılan çakma şenlikte yapılabilir
+		
