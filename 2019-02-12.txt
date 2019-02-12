@@ -1,0 +1,85 @@
+12 şubat 2019 haftalık toplantı logu
+
+logger: abb
+
+ikinci dönemde bizi neler bekliyor
+	-16 şubat codenight!
+		-azıcık farklı olacak, py için judge test edeceğiz.
+	-19 şubat tanışma toplantısı!
+		-topluluğu tanıtmak için video çekeceğiz.
+		-bu haftasonu codenight sanırız ki video çekmek için en uygun vakit.
+	-21 şubat inzva
+		-inzva: compatitive programlama oluşumu
+		-kendilerini tanıttıkları bir toplantı olacak.
+	-28 şubat hashcode
+		-googleın hashcode yarışması var
+		-burada beynimzi yaktıktan sonra yola çıkıyoruz: 
+	-1-2-3 mart bilmök
+		-her sene gitmeye çalışıyoruz
+		-topluluk olarak gidilen güzel bi etkinlik
+	-9-17 mart arası s-talklar
+	-22-23-24 mart py ön eleme
+	-30 mart-14 nisan arası bi jotform s-talkı
+	-14 nisan eski başkanın dgsi belki içmece olur?
+	-20 nisan py finali
+	-4 mayıs bilişim günü
+		-bunun hakkındaki şeyleri daha detaylı olarak kendi başlığında konuşacağız
+
+	-peki ya unworkshop??
+		-bu kadar uğraştırıcı etkinlik varken çok verimli olmayacağını düşünüyoruz.
+
+tanışma toplantısı
+	-ilgili olan arkadaşlarınıza söyleyin, gelsinler, tanışalım :)
+	-el ilanlarımız hazır
+	-video çekimi
+		-odaya geldiğinizde dışarı sürüklenip video çekmeye hazır olun
+		-ama genel olarak codenight akşamı/sabahı çekmeyi düşünüyoruz
+
+codenight
+	-sitelerimiz ve judge falan hazır da test etmek lazım. hadi codenightta test edelim!
+	-sevgililer günü codenightı FeelsBadMan
+	-video da çekeriz
+
+bilmök
+	-muğladaki üniversite hala davetiye atmadı.
+	-ama kültür işleri dilekçenin erkenden verilmesini istiyor.
+	-davetiye gelmediği için bürokratik olarak biraz gerideyiz, biraz hızlanacağız.
+	-toplantının bitiminde bir form atacağız.
+	-yarın öğlen 12 deadline
+	-kişi limitimiz 25, çok esneme şansımız yok maalesef. bazı kriterlere göre seçeceğiz.
+	-saat 12-1 gibi asil liste açıklayacapız.
+	-seçtiklerimizin perşembe öğleden sonraya kalmayacak şekilde kültür işlerinden resmi üye olması lazım.
+	-yol ve konaklama masraflarının belirli bir miktara kadar topluluk karşılayacak.
+	-ama bütçemizi aşacak olursa, (bütçe açığı)/(kişi sayısı) gibi cüzi bir miktar alınabilir. 
+
+bilişim günü
+	-4 mayıs cumartesi haftasonunda bir gün
+	-kkm yavaş yavaş topluluklara haftasonu vermemeye çalışıyor.
+	-önceden ayarlanmışları bi nebze tölere ediyorlar ama artık kabul etmemeye çalışıyorlar.
+	-bu durumda iki seçeneğimiz var:
+		-eğer hafta sonu yapacaksak başka alernatifler olması lazım
+			-eg. işletme, mm25, vişnelik.
+		-illa kkm dersek etkinliği hafta içine kaydırabiliriz.
+		siz ne dersiniz
+		hafta sonu ve kkm olmayan bi yer: 10
+		hafta içi ve kkm: 14
+	-hiçbir konuşmacı kesin değil çünkü maalesef tarihi belli değil.
+
+programlama yarışması
+	-iki aşamadan oluşuyor:
+		-ön eleme 60 saat online
+		-final 5-6 saat mera labında
+	-fiziksel iş gücü gerektiren kısım final
+		-yarışmacıların yemekleri, ulaşımları, ya dışarı çıkmak isterlerse? 
+		-bir sürü insana görev vereceğiz!
+	-final sabahı otelden yarışmacıları getiriyoruz.
+	-geçen yıl organizasyon ekibi, konuşmacılar ve yarışmacılar bir yemek düzenlemiştik.
+	-belki redbull sponsor olabilir finale, yemekleri sanırım yıldırım abiden ayarlayacağız. 
+	-bu sefer sponsorları düzgün seçtik ödüller bekliyor.
+
+30.yıl
+	-cclub: 7den 70e yemeği
+	-30.yıl t-shirti/sticker
+	-belki de 30 metrelik pasta
+
+hadi çarşıya!
