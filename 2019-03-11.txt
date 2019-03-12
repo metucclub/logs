@@ -1,0 +1,54 @@
+11 mart 2019 haftalık toplantı logu
+
+logger: abb
+
+s-talk reklam
+	-bu sabah afiş ve duyuru attık, s-talkların reklamı için siz de bişey yapabilirsiniz. 
+	-afişi alıp uğrak yerlere asmak suretiyle herkesi mutlu edebilirsiniz.
+	-bulunduğunuz gruplara da çok spam olmayacak şekilde atabilirsiniz
+	-dün mesela kıvanç alim aslı oturduk yaptık bişeyler.
+	-siz neden yapmayasınız ki!
+
+s-talk 2 reklam
+	-s-talk için perşembe akşam topluluk odasında duyuru yazmak, afiş hazırlamak, facebook etkinliği açmak için buluşabiliriz.
+	-cuma sabah da çıktı alıp kahvaltı yapıp onu asmak var.
+	-mustafa: bence güzel bi süreçti. eğlendim bunu yaparken.
+
+py reklam
+	-s-talklar için olan reklamların bi başka versiyonu.
+	-afiş hazır. diğer yönlerinde siz de katılabilirsiniz.
+
+bg
+	-tarih belli oldu: 7 mayıs!
+	-konuşmacı ve stand açacak firma ya da yemek sponsoru çağırma fırsatımız var.
+	-dinlemek istediğiniz konu, geleceğini düşündüğünüz şirket falan varsa bizle iletişime geçebilirsiniz.
+	-çarşamba günkü s-talkı utku ayarladı.
+	-bg ve diğer etkinliklerde sizin de katkınız olabilir, komşunun çocuğu yapıyo bak...
+	-nisan sonu iş bölümü yaparız. şu anlık detay inmeyeceğiz. zaten önceki toplantılarda konuşmuştuk.
+
+bilmök
+	-bilmöke gittik geldik neler düşünüyosunuz?
+		-aslı: bi cümleyle özetlemeniz gerekirse, bilmök daha güzel yapılabilirdi?
+		-mustafa: seçimlerden önceki adam keşke uzun konuşabilseydi.
+		-yiğit: ben aç kaldım.
+		-murat: konferans salonları kitleye göre çok büyüktü.
+	-kalanını yemekte çekiştiririz.
+
+30.yıl
+	-biliyosunuz 2019 cclubın 10.yılı. ne yapabiliriz?
+		-biri:30 kilo çiğ köfte mi yoğursak??
+		-fahri: 30*30 metre pcb bastırıp dağıtalım.
+		-berfinnur: devrimde şarap gecesi.
+		-berfinnur: devrimde 30 yazıp foto çekelim.
+		-alim: benden topluluğa şarap.
+		-t-shirt,çorap falan yapalım diyoduk.
+		-umut: şapka basılsın.
+		-abb: fosillerle beraber 30.yıl yemeği
+
+sponsor review
+	-iki sponsor duyurmuştuk daha önce, üçüncü de çok yakında belli oldu: insider!
+		-"bu ürünü alanlar bunları da aldı" işini yapıyolar.
+		-danışmanlık şirketi + bunların softwareleri.
+		-gümüş sponsor oldular.
+
+afiyet olsun!
