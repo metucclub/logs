@@ -1,0 +1,38 @@
+blurb log haftalık 08/04/2019 
+
+logcu: auo
+
+gündem
+- bg 
+	- kesinleşenler 
+	- amaç
+	- diğer
+- py
+	- haftaya haftalık toplantı yerine iş bölümü toplantısı
+	- yemek
+
+
+
+go go go
+- bg amaç:
+	- ödül töreni ve sponsorları konuşturma diye başlamış yıllar önce, sonra büyümüş
+	- biz bu dönem py ve bgyi ayırmak ve bgyi güzelleştirmek istiyorduk
+	- o yüzden dedik ki bu yıl bg akademik ağırlıkta olsun
+	- bu yüzden sadece tek platin sponsor alıp sadece ona konuşma hakkı verdik
+	- kalan herkes akademik olsun istedik
+
+- bg kesinleşenler
+	- metudan tolga can ile biyoinformatik
+	- jotform ceo aytekin tank
+	- bilkentten özcan öztürk ile heteregenous computing
+	- bilgi üniversitesinden (ve yeditepe bilmökten de hatırlanabilir) chris stephenson ile fonksiyonel programlama ve bilgisayar bilimi
+	
+- bg diğer
+	- quantumcu arıyorduk, birkaç şey bulduk:
+		- fizikten sadi hoca >>> benden iyisi var ya bulamazsanız gelirim
+		- okulda etraftaki quantum computing semineri afişlerinden insan avladık, bulduk, bir şirkete destek olan bir asistanmış, dönüş bekliyoruz.
+
+- py haftaya toplantı
+	- haftaya haftalık toplantı saatinde organizasyon ekibi toplantısı olacak, organizasyona katılmak isteyenler gelmelidir (15 Nisan 18:00)
+	- organizasyon ekibi, yarışmacılar ve sponsorlardan birilerini kaynaştırmalı güzel bir yemeğimiz olacak yarışma öncesinde (19 Nisan akşamı)
+
