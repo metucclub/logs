@@ -1,0 +1,37 @@
+logloglogcu auoauoauo
+
+01-05-2019
+
+gündem: py değerlendirmesi, bg planı
+
+# py feedback, önce blurbianlar konuşsun:
+- bahadır: servis rezaleti...
+- alim: biz ezgi turizmi ayarladık, cuma sorun yoktu ama cts aradığımızda bilgim yok dedi şoför. sonra ezgi turizm en yakındaki şoförü attı, ama servis küçük, hem plaka farklı kapıda sorun çıkabilir... üstüne bir de adam paramı verin diye çöktü gitmedi. tamamen ezgi turizmin mallığıydı.
+	#selfnote: seneye ezgi turizmden uzak durulmalı.
+- alim: ismini saçma sapan koymak, takım isminin arkasına başka isim yazıp onu asmak...
+- aslı: kopyaya ne demeli???
+- alim: adama hayır dedik, yine de hazır kod kopyası getirmiş yanında, gizlice sokuyor... 
+- aslı: labın zar zor yetişmesi... 
+- alim: evet, kahvaltı yapacağız diye işleri aksattık.
+	#selfnote: daha erken toplanılıp kahvaltı yapılabilir, başlama saatinde gelen tok gelir.
+	#selfnote: bir de yemek ve yarışmanın sırası günü vs seneye için en optimize hali tartışılabilir.
+
+# py feedback, yarışmacıların doldurduklarının incelenmesi
+- adam içecek demiş... 
+	#selfnote: belki kola falan sponsorluğu alabiliriz
+	#selfnote: kapıdan içeri ulaşım konusunda bir şeyler belki... ring saatleri yazılabilir en azından.
+- yemek biraz sıkıntılı yorumlar almış. kişilerle yemekleri bağdaştırmak lazım. 
+	#selfnote: körili tavuk ve mümkünse tavuk yemekleri olmasın.
+- ecem: keşke ısrarcı atsalardı duyuruyu, gözümüzden kaçabiliyordu dediler. 
+- aslı: ama??? duyuru grubu read only, biz napalım, okusun???
+- D sorusu kadar olmasa da zorlayıcı bir soru daha olsaydı denmiş. 
+	#selfnote: Bu mantıklı, seneye yapalım.
+	#selfnote: scoreboard arşive konabilir. AC oranı görünsün vs. Yarışmacılar başarılarının görünmesini genel olarak istiyorlar.
+	#selfnote: judge'a clarification sistemi olsa, yarışmacıların kalkıp soru sormasını engelleriz.
+
+# bg planlaması
+- sunucu metinleri geçe kalmayacak!!!!!!!!! iletişim adına editlemeli docs açılıp kulise bilgisayar vs hazırlanabilir. bir de kart yapalım havalı havalı.
+- tişört olmalı mı? ama salona girince hoş görünmez gibi. herkes aynı olmalı mı? karar: olmasın.
+- makarnacı gelmiyor, gelicem dedi ama şimdi ramazanda çalışmıyorum dedi. ta!da! ise meşgul.
+
+# iş bölümü exceli dolduruldu. bir tur da pazartesi yapacağız.
