@@ -1,0 +1,386 @@
+odtü bilgisayar topluluğu 2018-2019 dönemi seçim genel kurulu
+19 mayıs 2019 - 100. yıl özel yksı - 30.yıl özel yksı
+
+# kullanılan sunum: https://docs.google.com/presentation/d/1PSyBy0SEH1NtEpnLNs4vpVsXBP3-RDLbp1es-RGmby4/edit#slide=id.g5a4b17781b_0_136
+
+# yoklama
+ahmet burak baraklı (abb)
+alim bican çoban
+aslı umay öztürk
+aysuhan kubilay (aysu)
+bahadır kisbet
+birkan arslan
+burak arslan (barslan)
+burkan bereketoğlu
+cengizhan başak (cengiz)
+deniz eren yılmaz (deren)
+deniz koluaçık
+fahrican koşar (fahri)
+hasan bal 
+kıvanç tezören
+merve ecem gündoğan (mervecem)
+murat kaş
+mustafa gögebakan
+mustafa ozan alpay (mozan)
+ozan akın
+salih özen
+seral buse atak
+sinan tomruk
+umut özdoğan
+utku boran ünal
+yavuz durmazkeser
+yiğit soylu
+yiğitcan uçan (yiit)
+
+
+# gündem
+dönem değerlendirmesi/gelecek yıl planı/topluluk yapısı hakkında genel tartışma
+finans raporunun sunulması
+seçim öncesi eski yk üyelerinin değerlendirilmesi ve aklanması
+yeni yk adaylarının konuşmaları
+yk seçim oylaması
+dk seçimi
+yönetim kurulunun başkan seçmek üzere kısa bir toplantı alması
+kapanış => devrime konsere ~16:00
+
+
+#glossary 
+cn: codenight
+py: programlama yarışması
+bg: bilişim günü
+
+>>> tüm tartışma not alındı. her cümle fikir içeriyor. yeni dönem yk'sının dönem planı yaparken bu belgeden fikir alması için açık ve anlaşılır yazıldı.
+
+
+## DÖNEM DEĞERLENDİRMESİ/GELECEK YIL PLANI/TOPLULUK YAPISI HAKKINDA GENEL TARTIŞMA
+
+## aslı- geçen yıl neler yaptık? sunumu
+bu senenin etkinlikleri anlatılır... bize eleştiriler geliyor, "ilk dönem elle tutulur bir şey yapılmadı diye"
+halbuki çok güzel geçirmiştik. bir recap olsun.
+
+
+## ilk alt konu: codenight, tanışma ve üye çekme/oryantasyon
+
+mervecem: ilk dönem kkm'ye etkinlik neden konmuyor?
+
+alim: onun için yazın başlamak gerek, önceden yaptık, olmayacak şey değil. bu yılki yk isterse yazın başlamalı
+
+barslan: codenightların önceden çok iş yükü olduğunu konuşmuştuk. bu yük dağılımı seneye yapılmalı bence, codenight görevlisi üyeler olabilir.
+
+fahri: bence esas öldüren kısmı uyanıklık. yk üyesiyken haftaiçi zaten ders + yk işleri ile geçiyor, haftasonu uyku düzeni kaydırmak gerçekten öldürücü oluyor.
+
+ozan: ya ben hep sabahlıyorum ama codenightta bu çok daha öldürücü oluyor, çünkü sürekli yok su bitti mi yok kettle bozuldu mu kontrolü, insanlara yardımcı olmaya çalışırken kendi işine bakamamak... o yüzden belki öncelikle aktif üyelere ve olayları bilenlere açıp sonra büyütebiliriz.
+
+alim: kazayla içinde bulunduğum bir toplulukta bu tarz yorucu bir etkinlik için, yk+aktif üyeler havuzu arasından insan seçilip parça parça yapılıyor, böylece dönemde bir yoruluyor herkes maksimum. bunu yapabiliriz.
+
+birkan: cclub'ı kullanmak için codenighta gelen insanlara sinir oluyorum. dönem dönem ortaya çıkıp kayboluyorlar. mesela ben saatlerce ubuntu kurup programlamaya giriş anlattım, ama asla bir daha bi kez daha gelip sonra asla gelmediler...
+
+murat: bence codenight biraz daha akademikten sıyrılıp, cana yakınlık gösterdiği bir etkinlik. o yüzden sınırlandırınca hoş olmayabilir. ayrıca birkan da haklı ama belki de topluluğa 3-4 sağlam kişi almanın bedeli belki de budur. mesela bunu bg'de demeyiz, bg'de adama niye geldin demeyiz. bence codenightta da demeyebiliriz, gitsin o kahveler de ya...
+
+barslan: belki yk toplantılarının zamanlarını biraz değiştirebilirseniz, yk da daha az yorulabilir, bilemiyorum. ayrıca muratın dediği gibi, bence de codenight çok yeni üye çekiyor, güzel üye çekiyor, ben böyle geldim biraz da. mesela bu akım genelde ilk iki codenightta olacağından, bunlar için daha fazla üyeyle organize edip tanıtım etkinliği gibi kullanabiliriz.
+
+umut: ben de kendimize özel bir şey olması taraftarıyım çünkü yük azalması olur. ama murat ve barslanın dediği gibi bu gerçekten tanıtım etkinliği, o yüzden belki alternatif bir tanıtım etkinliği bulunabilir. böylece hem kimse ölmez, hem de tanıtım boşa çıkmaz.
+
+hasan: belki tanıtımda hata olmuş olabilir mi? benim tüm arkadaşlarımda _biz uğraşıcaz yk yardımcı olacak_ havası olmuş, onu engellersek böyle olmaz.
+
+alim: o sanırım ilk codenight'ın hacktoberfest eğitimine denk gelmesinden dolayı oluştu. hem tanışma yüzü kalsın hem de kapalı olsun, 
+
+aslı: ben açıkçası codenight'ın tanıtım yönünün güzel olduğunu düşünüyorum. genelde gerçekten ilk 2 cn sonrası azalıyor katılanlar, bu ilk iki codenight için güzel bi işleme yapılıp yorulmak göze alınabilir. sonrasında daha local yapılabilirler.
+
+cengiz: tanıtım olayına ben de katılıyorum, çok iyi tanıtıyor ve bağlılık sağlıyor. benim en büyük kaygım oryantasyon. mesela random'ı dağıttık, ama buradaki ekip randomdan geldi, o toxic ortam bir süre gerekli. bu codenight için de geçerli, zaten 3. codenight'ta katılım azalıyor, uğraşımız 2 codenight'ta oluyor. üyelere görev dağılımı bu ikisi için çok mantıklı.
+
+soylu: bence kimse 12 saat birilerine python babysitting yapmak zorunda değil. zaten bu etkinliğin afişi vs yok, maksimum random/duyuruda öğrenip geliyorlar. bence zaten defalarca söylediğimiz halde odaya, toplantıya gelmeyip sonra codenight'a gelen üyenin genelde birkanın anlattığı profilde olduğunu düşünüyorum. arada 1-2 kişi vardır, onu kaçırabiliriz.
+
+fahri: ilk codenight (hacktoberfest olan) dolu bir mera ve ayakta insanlar vardı. ikinci codenightta yine mera doldu. üçüncüde de ismail abi doldu. (sayma yapılır) bu yıl gelen 10 üyeden 4'ü codenightı beğenip gelmiş. şimdi gelen adamı düşünelim, adam neyle uğraşacağını bilmediğinden kahve içip klavyeye döküyor. belki ona bir şey başarmışlık hissi versek adam gelir. bi de mesela cn yerine başka bir şey yapsak daha çok insan gelir miydi onu düşünmek lazım.
+
+deren: bence seneye yaparsak codenight şartlarını belirtmek lazım yine üstünde dura dura. söylemiştik, anlamadılar ama başka bir şekilde üstünde durulabilir. bir de insanlar bir şeyi kolay, cepte falan gördüğünde itibarı düşünüyor, biraz cclub bazen o durumda oluyor gibi geliyor. acaba bu farkı biraz belli etmeli miyiz? insanlar gidip takılayım yerine parçası olayım diye çabalar. 
+
+soylu: aktif üyelere özel olduklarını hissettirirsek bu sefer sürekli kendi arkadaşlarına yardım ediyorlar muhabbeti de çıkabilir.
+
+mervecem: ben de ilk iki cn'ın tanıtım kalanının local olmasına katılıyorum. bir de mesela haftalık toplantı yemeklerinde tanışma olmuyor, belki başka yemekler organize edilebilir, resmi etkinlik olmadan da insanlar gruba şurda toplandık, kahve içiyoruz, yemek yedik çimlerde oturcaz vs vs yazıp buluşup kaynaşabilir.
+
+barslan: codenight dışında samimiyet gösterebileceğimiz etkinlik olamaması sorun. bölüm dışı hevesli insanları çekiyor, aaa kodlama öğrenicem diye, bunun önü kesilebilir.
+ozan: odtüdeki topluluklara baktığında biz teknik ve kariyer topluluğuyuz. (komüniteyiz, aynı amaçla toplanmış bir grup insan) bence codenightlardan, beraber bir şey yapıcaz, atıştırmalıklar bizden laflarını silip kullananları getirmeyelim.
+
+koluaçık: bence herkese açık olsun ama kafalarına vura vura bilgisayar getirin, size yardımcı olmucaz diyelim. bir de topluluğun kaybı kadar kazancı da olması lazım üyelerde her yıl. bu yüzden başka etkinlikler kesinlikle düşünülmeli. bir de her yemekli/içmeli etkinlikte masa karması yapılınca baya verimli tanışma oluyor.
+
+umut: bence kendi aktif üyelerimizin üstünlüğünü göstermek çok sorun değil. 
+
+yiit: fahri insanların işleri yok dedi. o zaman insanlara iş verelim, yarışmalar olsun vs. 
+
+salih: bence de insanların yapacak bir şeye ihtiyacı var, hiçbir işi olmayanlara bir soru verip insanları gruplayıp falan yapabiliriz. böylece hem insanları grupladığımızdan kaynaşırlar, hem de işleri olur. 
+
+aysu: deren bu topluluğa saygı duymayı öğrencekler konseptinde bir şeyler dedi ve ben katılıyorum. sağda solda o muhabbet hala geçiyor, ben topluluğuma boş denmesine karşıyım. 
+
+alim özet: 
+- yeni üyelerin tanışım platformu yok random yok!
+- yemekler yapılmalı, farklı kaynaşmalar yapılmalı, masalar karılmalı
+- farklı bir kaynaşma planı olabilir, codenightta işler verilebilir
+
+
+
+## yeni alt konu: oda
+
+aslı: oda topluluğun imajını zedeliyor. bölümdeki imajımız kirleniyor. yönetmesi zor. napmalıyız?
+
+deren: ben odaya ilk geldiğimde kendimi odaya layık görmemiştim, ama kimse böyle düşünmüyor. bence burada o algı oluşturulmalı. kimse ders arasında kafana vura vura sana "coder meme" göstermemeli. örneğin tanışma toplantısında odamızı söylemeye gerek yok.
+
+birkan: ben room grubuna değinmek istiyorum. room dağılabilir, daha çok kişi elenebilir. random yine gerekli cengize katılıyorum. ayrıca bu oda bizim ortak yaşam alanımız. eşyalara dikkatli davranın lütfen. biz zamanında üye kazanmak için oda ve cn reklamı yapıyorduk, bence oda gerçekten private olabilir. arkadaşlarınızı toplulukla tanıştırmak için odaya getirmeyin, toplantıya getirin. garip bir ortam oluşuyor, kötü imaj çiziyor.
+
+umut: temizlik hakkında bir şey söyleyeceğim, o gerçekten çok büyük bir sıkıntı. insanlara daha şiddetli bir aşılanma yapılmalı belki de. bir de odayı kullandırma durumunda, ben yeni gelen birini odada daha gözlemlemedim çünkü ben de yeni geldim ama belki de öncesinde belli bir süre tanınıp insanları seçerek alabiliriz. kademe atlatarak alınabilir, ama bu çok sert de görünebilir. 
+
+aysu: ben yine derene katılıyorum. mesela bazıları toplantı sonrası bir saat açmak gibi kısıtlama şeyleri yapıyorlar, bu da hoş değil. yine sadece yk üzerinden dönüp sonra tekme tokat beni odadan atarsa beni iter bu. 
+
+fahri: odayı herkese kapamak büyük tehlike, bu sadece ykya kalması demek ve üyesizliğe yol açar. birkanın bir anektodu var mesela...
+	birkan: mesela beni zamanında odadan kovdular, başkan olacağımı bilmeden... bir de zamanında o kadar private olmuş ki bölüm başkanı bile "fuck is spinning here" demiş...
+...yani topluluğu değiştirmek zorunda kaldığımız durum böyle oluşmuş, biz geri dönersek bu biraz sıkıntı. 
+
+hasan: mesela ben ilk odada düştüm topluluğa, fahri ve aslı bana bir şeyler anlatmıştı. bence çok iyi bir şey. ama derene de katılıyorum, sürekli reklam yerine az reklam yaparak, toplantı çıkışlarında çağıra çağıra çekirdek kitle hitabı sağlanabilir.
+
+barslan: benim odaya alışmam toplantı sonralarında flamaları odaya götürmekle başladı. net bir kural değil de odaya duyuru yapmak yerine doğal sürece bırakılabilir. bence bu odaya layık mıyım sorgulanmasının zaten olması gerekiyor. bunun da böyle doğal sürece etki ettiğini ve muhabbetle gelişeceğini düşünüyorum.
+
+kıvanç: odanın fiziksel sınırları mevcut, yapılacaklar belli. o yüzden genel davetler değil bu doğal süreç daha mantıklı.
+
+koluaçık: ben temizlikle gireceğim, bence yerde gördüğün şeyi çöpe atmak çok zor değil. bunun hatırlatmalarını yaparak ve insanların katkılarıyla bunu çözeriz. odanın reklamını bence de büyük olarak yapmayalım, onun yerine doğal reklam daha güzel.
+soylu: ben de odayla ısınanlardanım, oda benim için çok önemli. aklıma gelen öneri ise resmiyette study hourlar oluşturabiliriz, insanlara odaya gelme yerine _iş yapçaksan gel_ diyerek, zamanla transfer edilebilir.
+
+mervecem: bence öncelikle az kişiyle efektif olmak mı yoksa topluluğu büyütmek mi istiyoruz buna karar vermeliyiz. ondan sonra şekillendirebiliriz. bir de eşyalar çok, hatta eski, onlar da değiştirilmeli, budget ayırılmalı. 
+
+aslı: temizlik konusunda kurallar asılıydı, iyiydi, çıkardığımız gibi bozuldu. belki o baskı tekrar gerek.
+
+
+
+## yeni alt konu: whatsapp grupları 
+
+alim: zamanında bunlar yoktu. direkt gruplar yoktu, admins only yoktu, insanları sürekli random'a yolluyorduk soru sordukça. ama random çok vahşi, asla ciddi olunmuyor orada. sonra anahtar ve oda takibi için room açtık. sonra random yakılmalıydı, yaktık bir gece. oryantallerde grup var, biliyorsunuz, sorunca almıyorlar _yenileri hemen almıyoruz_ diyorlar, bir gece ansızın ekleniyorsunuz.
+
+cengiz: bizde de böyleydi, 4 idmanla giriyosun gruba ama idman saatlerini öğrenemiyorsun asla bir yerden?
+
+abb: jakuto da böyle. 3 toplantı kuralı var, kural dolmadan almıyorlar. biz de bunu yapabiliriz, duyuruda toplantıları duyururuz.
+
+birkan: gruplar arası eleme yapmak için random gibi bir grup oluşturabiliriz bence de.
+
+aysu: grup kesinlikle lazım bence iletişim önemli, aniden grup dağıtmak çok sıkıntı bir de. 
+
+aslı: bence duyruru + tanışma toplantısı sonrası linki revoke edilen random + "innercircle" yapar, abb'nin söylediği gibi eleme yapılabilir.
+
+mozan: mesela ben ingress oynadıklarımla birçok grupta bulunuyorum. en çekirdek gruba eklenmek için etkinliklere gidip kendini gösteriyorsun, ama yine de bir yeniler grubu var ve asla dışlanmamış bir grup bu. o yüzden bu random accumulation grubu tatlı olur.
+
+fahri: random bir petri kabıydı. neden? çünkü sen bir agar jeli alıp besin ve bakteri koyarsan o bakteri büyür ve sen ona kızamazsın niye büyüdün diye. her gün aşırı toxic başka bir şey atılıyor, reddit gibi bir yere döndü. bence random olmamalı. bakın room'u kurduk, millet _adam oldu_. mesela cclub: mallar diye bir grup kuyup bu gruba özel bir mallık olduğunu bilip, süzülüp room'a gelmeye çalışabilir. 
+
+yavuz: bence randomda kurallar olmalı, oda kuralları gibi. random olsun ama adminler ateş etsin.
+
+barslan: hazırlık adam okula da alışıyor toplulukla beraber onu da unutmamak lazım, yavuza katılıyorum iş çığırından çıkıyor yönetim lazım. ve ara grup lazım cidden, duyuru ve room ile olmaz sadece adam alıştırmalıyız. hem bakın grubunda vardım zamanında güzeldi diye bir hava yayar. 
+
+soylu: aslı söyledi, random linki ortalıkta olmamalı. bir de vakit kalırsa discord/telegram konuşalım.
+
+umut: petri kabı grubu bence kısa ömürlü olmalı. 
+
+birkan: mesela değerlendirme toplantısına kadar (ilk genel kurul) kadar kalabilir mesela. 
+
+
+
+## yeni alt konu: başka sosyal etkinlikler? üye almaca? 
+
+barslan: bence yaptıklarımızda değiştirmeler yapmak yeterli, teknikliği bozmamak adına daha fazla sosyallik eklemesek de olur bence.
+
+soylu: iş kitleme sahiplenmede çok işe yarıyor, bence onun üstünde durabiliriz. sosyal etkinlik yerine bu işleme de olur.
+
+ozan: mesela _hadi gelin yarışma yapıyoz labdayız_ diye random şeyler yapabiliriz. böylece sonrasında yemeğe gidildiğinde muhabbet döner.
+
+salih: ya mesela ben daha burayla tam kaynaşamadım. bu kaynaşma artırılmalı ve insanlara bir şeyler katan unswh[] gibi etkinlikler artırılmalı bence.
+
+koluaçık: mesela petri kabı(mallar) grubuna _aysuyla kahve içicez gelmek isteyenler var mı, tanışak takılak_ diyebiliriz belki.
+
+deren: ben iş kitleme olayına baya inanıyorum ya. o önemli. biz ilk teoriden pratiğede gölgelik yapıp yavuzla öyle bağlanmıştık. bu yapılabilir yine seneye.
+
+utku: ben de katılıyorum. codenightlarda görev vermek vs başarılı olur. cclub'ın sevdiğim özelliklerinden biri bu, bu görev almayı çok teşvik ediyorsunuz. mesela sosyal etkinlik olarak langırt falan olabilir, paintball. 
+
+murat: mesela codenighta eskiler arasında görev paylaşımı ile mera parsellenir, herkes o insanlarla tanışır muhabbet eder. 
+
+fahri: unwsh bana verimsiz gibi geliyor. (anket: 6-7 kişi verim aldım dedi) baksana sonra adam python.exe çalıştırıyor ubuntuda. 
+
+aslı: verimsizlikten korkmamalıyız belki de, bu harcadığımız çabanın karşılığını tam almamaya hazır olarak bu etkinliklere devam edebiliriz. zamanla hem biz hem insanlar sürece alışır. 
+
+
+
+## yeni alt konu: py 
+
+birkan: soruları dışardan almayı oldukça azaltmalıyız hatta bırakmalıyız, gördük ki başarabiliyoruz.
+
+ozi: finale daha az takım, daha fazla soru, daha fazla ödül, judge++.
+
+yiit: vasyle bence de bağlı olamamalıyız. biz de yazmalıyız kesinlikle. ve mini-py'ler düzenleyebiliriz, soruları deneriz, judge'ı deneriz, kendimizi deneriz.
+
+mozan: bence yarışma kurallarına komite isminizi değiştirme hakkını saklı tutar eklenmeli.
+
+hasan: finale az kişi çağırılınca ödülleri artırmak sıkıntı çıkarmaz. 
+
+fahri: soru yazımı tamam yaptık sorduk ama tüm yarışmayı biz hazırlasak bu kaliteyi düşürür. kaliteyi ne belirler: takımlar, sorular, ödül. bunları çok sıkıntıya sokmamalıyız. bence her zaman final toptan satın alınmalı. ödüller enflasyona bağlı olarak durduğu yerde azalıyor. bu hesapla %20 artırmazsak ödüller bu yıl azalmış olacak. 
+
+aslı: ödül artırılmasını hediye çekleri ile yapılabılır bence. finansal olarak karşılaması daha kolay olabilir (gv reasons)
+
+alim: çekler ilk 5'e dağıtılabilir. 
+
+birkan: ulaşım konaklama karşılamıyor mesela huprog, ve tüm ödülleri "değerinde ödül" falan. biz de bunlara yönelebiliriz. finali vasylden aldığımızda sıcak paradan gittiğini de unutmamak lazım. bu seneye sponsorlardan ne geleceğine bağlı.
+
+mervecem: ben ödül dağılımında ilk 5 olabileceğini düşünüyorum, böylece hep aynı kişiler almaz. 
+
+
+
+## yeni alt konu: bg
+
+deren: zorunluluktan haftaiçiydi, katılım ramazan ve haftaiçi olması sebebiyle azdı, ama bence kaliteliydi kişiler açısından hem konuşmacılar hem katılımcılar açısından. _özet ve teşekkür_ 
+
+utku: bence organizasyon olarak iyiydik, baya idare ettik tıkır tıkır? konuşmacıların kaltiesine bakıyor zaten olay, o da iyiydi baya.
+
+birkan: konuşmacıların daha erken belli olması önemli, biraz zor oluyor sırf yk iken bu biliyorum, ben de yaşadım, ama belki yeni yk işbölümünü daha iyi yönetebilir. _özet ve teşekkür_ 
+
+aslı: ben açıkçası katılımcı profilinde de bir yükselme görüyorum. bence burada artık geçen yılki katılımcı sayısıyla bu yılki kalitede katılımcı toplamayı bulmamız gerek.  bir de konuşmacı bulma işi bize kalınca sorun oldu, yetişmedi. bunun iş dağılımını sağlayamadık. 
+
+mervecem: bence etkinliğin akademik konuşmacı içermesi oldukça önemli burada, gelen kitleyi etkilediğini düşünüyorum.
+
+barslan: başka bir etkinlikle yer gerekirse üçlü amfi hoş olabiliyor, düşünülebilir. bir de konuşmacılara ulaşma iş kitlemesini bireysel sıkıştırmayla yapmak mantıklı oluyor, yürütülebiliyor.  (umut: evet mesela inşaat tüm üçlüyü kapayıp fuaye olarak da kullanmıştı etrafı)
+
+umut: aslında 1 ay önceden belli olsa hem afiş reklam vs masraf da düşer, hem de belki 1 ay o kadar zor olmaz. bir de konuşmalar arasında müzik vs olabilir. (coffeehouse, elevator music falan gibi)
+
+deren: reklam geç kaldı evet, ama burada sorun yer ve gün sıkıntısıydı. okul bizi oyaladı, biz geçen yazdan beri uğraşıyoruz ama asla kesin tarih vermediler. haftasonu ve mesai saati dışına vermediler, üstüne etkinlik 7 mayıstaydı, rektörlük 8-9-10 mayıs etkinliklerini iptal etti. buradan olayın sıkınıtısı belli zaten. bence yine iyi yaptık.
+
+> alim başgan etkinlik bazında teşekkür konuşması yaptı ^^
+
+
+
+## yeni alt konu: konu değil birkan eklemek istedi 
+
+birkan: bu bahsettiğim bizi kullandılar dediğim insanlar bilmök'e başvurup, sonra "biz cclub'ın g*tünü yalamadık, ondan bizi almadılar" demişler. çok dolmuştum, söyleyeyim dedim.
+
+
+
+## yeni alt konu: e-bergi
+
+cengiz: e-bergi gözbebeğiyken istenmeyen çocuk oldu... bence insanları yazmaya zorlamalıyız. belki bergi yk'sı olmalı belki de, o tarz biri ya da. 
+
+aslı: ben de yaralıyım ve utanıyorum, ama seneye bu "bergi editörlüğü"ne gönüllüyüm.
+
+cengiz: yazar arayüzü için medium migration yapılabilir.
+
+ozan: ben çok uğraştım hatta baya yazdım, ama bazı fikirlerim ya çok karmaşıktı, ya da çok kıytırıktı. diğer fikirleri de yazdım zaten. bence de bolca insana atılmalı bu görev, 1-2 kişinin olsa bu ilerlemez.
+
+fahri: bu yıl ilk dönem biraz vardı ama ikinci yıl bergi gündemimizde yoktu. geçen yıl meltdown ve spectre çıkmıştı, ben toplantıda söyledim sonra deren ve ilker yazdı. bilgisayar dünyasında böyle olaylar zırt pırt oluyor bunlar takip edilmeli. yok fb veri çalsın falan filan...
+
+alim: mesela tartışmalı bir forum gönderisi bile yazıya çevrilebilir.
+
+barslan: sıkıntı insanların yazı yazmaması ya, yazdığım şey bir şeye benzemicek diye korkuyorum. bunu belki şöyle çözebiliriz, bi workshop gibi bir şey yapabiliriz. bir de iş ortada kalmamalı her zaman birine kitlenmeli, yazılarda da bu yapılabilir. 
+
+aslı: e-bergiciler özel workshop: yazı nasıl yazılır? yapabiliriz. ayrıca ilk başlarda editörler çok iş yapabilir, bu sorun olmamalı kimse çekinmemeli. 
+
+ozan: konu bulamıyorum bahane değil bence, hackernews gir bir yığın konu...
+
+umut: eğer cclubtan bağımsız sürecekse tanıtım, fiziksel olarak gidebilir.
+
+cengiz: podcast'e bile yönelebiliriz, insanlar artık yazı dinliyor, okumuyor. 
+
+
+
+## FİNANS RAPORU
+
+deren - slayt üzerinden rapor sunumu ve anlık soruları yanıtlama
+
+
+## AKLAMA
+
+# ilk aklanan yk: başkan alim bican çoban
+alim: ilk dönem yklık ve başkanlık yapmadığımı düşünüyorum. çeşitli sebeplerden yanlış yerde olduğumu düşündüm ve başkanlıktan soğudum. ama bunu asla yönetimin kalanına açmadım, erteledim problem büyüyene kadar. *yapması gerekirken yapmadığı şeyleri sayar*. en son bana yapmıyosan başkasını bulalım dediler, kendime geldim. 
+deren: sıcak para hesabından insanlara borç atarken troll açıklama yapmışsın, al oğlum al lazım olur... çiftlik bank yatırım bedeli... gibi. pls bunu kimse yapmasın.
+alim: hazır saymanlıktan konu açılmışken, param yokken topluluktan para çektim, sonra yerine geri koydum ama yapmamalıydım.
+
+-- oy birliği ile aklandı!
+
+# sıradaki yk: ahmet burak baraklı
+abb: herhangi bir zamanda %100 yklık yaptığımı düşünmüyorum. ama %25ten başlayan oranlarla ve %90'a kadar yklık yaptım. 
+yiit: mesela ne yapmadın, ne yapabilirdim?
+abb: mesela herhangi bir yk çalışmasında evden kalkıp gelmediğim için bulunmadığım oldu, bunu yapabilirdim. 
+mervecem: ben senin yk olduğunu baya geç öğrendim.
+umut: ben de.
+abb: geç başladım zaten, ikinci ay başladım ilk dönem. ondan biraz geç bir süreçti.
+
+-- oy birliği ile aklandı!
+
+#sıradaki yk: aslı umay öztürk
+auo: yapma şeklim kırıcıydı, özür dilerim. bazı işleri yeni yklara salmış olabilirim. aklıma gelmeyen bişey olmuş olabilir.
+barslan: toplulukta bazı şeyler için ciddiyet gerekiyor zaten. kırman doğal olabilir.
+
+-- oy birliği ile aklandı!
+
+#sıradaki yk: deniz eren yılmaz
+deren: ilk dönemin başlarında genel bir kafa karışıklığıyla durgun bir zaman geçirdim. bi süre boyunca ben de aktif bir yk olmadığımı düşünüyorum. senenin büyük bir kısmında saymanlık yaptım. paramız varken harcamak istedik, belki de çok harcadık, bu konuda yorumlarınıza açığım. biraz da sıcak para sıkıntısı oldu, bir ara baya borçluyduk yk üyelerimize. 
+cengiz: peki bergi konusunda, sen de editördün, belki biraz daha fazla darlayabilirdin sen de. her toplantıda darlamak insanlara hatırlatmak gibi.
+
+-- oy birliği ile aklandı!
+
+#sıradaki yk: fahrican koşar
+fahri: geçen yıl buraya çıktım dedim ki, seneye dersim yok her şey bende. sonra iki dönemde 16 ders aldım abi. nesi az? oldukça _değişik_ bir miktar. bi hesaplama hatası olmuş. bi de gaza getirip oy aldım, ama yapamadım söylediklerimi. mesela önce dedik ki arşiv çıkacak. arşiv çıkmadı. yazın denedim, olmadı. sonra her şeyden soğudum.  bi yerden sonra webcilik sıkıyor. sonra şu minik server, bize yeterdi, hesapladık bir yıllık masrafımızla her yıllık server çıkıyordu. ama öğrendik ki bergi için gereken elastic search'ü çalıştıramıyormuşuz. o da yandı. bir de dediler ki, yk toplantısında origami yapıyormuşum. evet yaptım. ama aslı bir şey anlatıyordu napsaydım? neyse ki ozan benden aldı şu teknik işleri, ben de geri almadım. 
+cengiz: bir vaat olarak "topluluğu hallettik, bilgisayarı kaldı" demiştin. sence ne kadar olduk?
+fahri: yeterli değil, ama yerimizde kalmadık en azından.
+
+-- oy birliği ile aklandı!
+
+#sıradaki yk: ozan akın
+ozan: yaptığım ilk hatalardan biri şu minik server muhabbeti, fahriyle beraber yaptık o hatayı. fazla heyecanımdan her işe atladım. bazen yine bu heyecanımdan sponsorluk görüşmelerinde gereksiz yetkili konuşabiliyordum, sıkıntı olmadı ama olabilirdi. bir de yine heyecandan işleri dışarıya garip yansıtabiliyordum.
+birkan: yapmadığın iş var mı?
+ozan: server taşıması. çeşitli sebeplerle ortak kararlarla erteledik, ben de ertelemeyi biraz uzattım. bir de bergi, o da genel yönelim sebepli zaten konuştuk.
+
+-- oy birliği ile aklandı!
+
+#sıradaki yk: sinan tomruk
+sinan: bazen işlerden kaçınıyordum yk içinde. hazır bekleyen mailleri atmadığım oldu. yk toplantılarında sessiz kalabiliyordum. 
+(kendini fazla gömdü, durdurduk, yazmadık çünkü yalan.)
+
+-- oy birliği ile aklandı!
+
+
+## SEÇİMLER 
+
+>> aday konuşmaları yapıldı.
+
+* yk oyları
+- deniz eren yılmaz		11
+- deniz koluaçık		11
+- hasan bal			11	
+- merve ecem gündoğan	11
+- murat kaş			  2
+- mustafa gögebakan	  6
+- ozan akın			10
+- sinan tomruk			  5
+- yiğit soylu			  5
+- yiğitcan uçan			  9
+
+>> 8. yk için oylama yapılması gerek.
+
+yiğit soylu: ben adaylıktan çekiliyorum.
+
+* yeni yk an itibariyle:
+- deniz eren yılmaz		11
+- deniz koluaçık		11
+- hasan bal			11	
+- merve ecem gündoğan	11
+- ozan akın			10
+- yiğitcan uçan			  9
+- mustafa gögebakan	  6
+- sinan tomruk			  5
+
+* dk adayları & oyları:
+- ahmet burak baraklı	  5
+- alim bican çoban		12
+- aslı umay öztürk		20
+- fahrican koşar		16
+
+* dk başkanı: 	alim bican çoban
+* dk üyeleri: 	aslı umay öztürk
+			fahrican koşar
+* yedek:		ahmet burak baraklı
+
+>> yk başkanı seçimi için yk odaya geçti, bekliyoruz. 
+
+* tek başkan adayı deniz eren yılmaz, yk tarafından oy birliği ile seçildi.
+
