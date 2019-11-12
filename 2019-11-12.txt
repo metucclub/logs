@@ -1,0 +1,99 @@
+yazman: Deniz Koluaçık
+
+12 Kasım 2019
+
+Gündem:
+-kodtü
+-bergi
+-tp - Chris Stephenson
+-merch
+-içmece
+
+# kodtü
+
+- deren: 7 Aralık'ta olacak. En fazla iki kişilik takımlar olacak.
+	Bu yarışmada competitive programmingle uğraşanlara ilave olarak
+	problem çözmeye ilgi duyan ama hala başlamamış insanları başlatmak istiyoruz.
+	İlk ona çanta, para vs. ödevler olacak.
+	200 takımın katılmasını bekliyoruz. 
+	Yakında afişlemeye de başlayacağız.
+
+
+# bergi
+
+- deren: Bergi'yi ayaklandırıyoruz. Güzel konular var ama yazı yazacak insan yok.
+
+- mustafa: Yazı yazmak isteyen olursa bana ulaşabilir. 
+
+- koluaçık: Hakim olduğunuz bir konu olmak zorunda değil.
+	Merak ettiğiniz herhangi bir konuda bilgi sahibi olduktan sonra yazabilirsiniz.
+
+- salih: Linux sisteminde oyun oynama konulu bir yazı yazabilirim.
+
+- deren: Aklınıza yazı yazılabilecek bir fikir bile gelse yazabilirsiniz.
+
+
+# tp
+
+- deren: Teoriden pratiğe eskiden bilişim gününe çok yakın bir etkinlikti,
+	biz de farklı bir formatta yapmak istiyoruz. Çok büyük olmayan,
+	etkileşimin devam ettiği bir workshop yapmak istiyoruz. Jotform
+	bize amfi sağlama konusunda yardımcı olabilir. Chris Stephenson da 
+	bizimle atölye yapmaya sıcak bakıyor.
+	Hem atölyenin veriminin azalmaması hem de eldeki imkanlardan ötürü
+	atölyenin 40-50 kişilik bir kontenjanı olacak, yapılan başvurulardan
+	seçme yapılacak.
+
+- umut: Katılacak kişilere fonksiyonel programlamayla ilgili bir ön çalışma 
+	verilecek mi?
+
+- deren: Fonksiyonel programlama için bir ön çalışma verilebilir veya 
+	atölye temel düzeyden alınabilir. Henüz net değil.
+
+
+# merch
+
+- deren: Her sene polar yaptırıyoruz, bu sene de vakti geldi :)
+	Şimdiye kadar hep HMS'de yaptırıyorduk ancak son birkaç senedir yaptırılan
+	polarlar biraz kalın. Farklı bir yerde yapıtırlabilir mi diye düşünüyoruz.
+	Fermuarsız, sade, önce logo, arkada yazı, renk ve tasarım için genellikle
+	form açıyoruz.  Bildiğiniz bir yer varsa veya aklınızda bir fikir varsa
+	paylaşabilirsiniz.
+
+- umut: Kalite konusunda şüpheliyim ama Denizli'deki şirketlere yaptırabiliriz, çok ucuz oluyor.
+
+- deren: cclub atkı, anahtarlık vs. gibi fikirler de geliyor ancak bunları 
+	gerçekleştirmek biraz zor oluyor. Yine de anahtarlık düşünülebilir.
+
+- umut: ODTÜDEN'e sorulabilir.
+
+- ozan: Metal istiyorsanız biraz pahalı olabilir. Ben kupa yaptıralım diyorum.
+	Tasarım yarışması açıp geçen senelerdeki gibi kazananlara kupalarını
+	hediye edebiliriz.
+
+# unworkshop
+
+- deren: İkinci minecraft unworkshop'ımız yakında olacak. Ayrıca Ozan yakında yeni bir 
+	unworkshop yapacak.
+
+- ozan: Önümüzdeki pazartesi bir sıkıntı çıkmazsa "Server'ını Nasıl
+	Ayağa Kaldırırsın" unworkshopı verebilirim. Çok uzun olmayan birkaç
+	unwsh şeklinde gerçekleşecek. Ayrıca küçük bir sürprizimiz olacak.
+
+- deren: Kesinleşince duyuracağız.
+
+
+# İÇMECE (yes!)
+
+- deren: Sınavlardan nefes alabildiğimiz bir zaman toplanıp Central'da 
+	oturup sohbet edelim. Bir sonraki cumartesi olacak gibi gözüküyor.
+	Form açıp bakacağız.
+
+- umut: Önümüzdeki hafta cumartesi 211 çıkışına denk geliyor. Çok güzel olur.
+	
+
+# ilave
+
+- ozan: unworkshop veya bergi önerisi veya isteği olan var mı?
+
+- koluaçık: LaTeX'te cv hazırlama etkinliği(?), unworkshopı(?), bergi yazısı(?).
