@@ -1,6 +1,6 @@
 <center><h1>
 Haftalık Toplantı<br>
-09.11.2021
+16.11.2021
 </h1></center>
 
 **Logu Tutan:** Hasan Hüseyin Yıldız
